@@ -1,2 +1,4 @@
 # This is My First Repository for Data Structure
 This is my first repo by Viknes
+# Introduction to Git and GitHub
+First time using Git and Github :octocat:
